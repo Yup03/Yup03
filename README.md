@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yup03
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning html css and javascript
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me ...
