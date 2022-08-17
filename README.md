@@ -10,8 +10,8 @@
 
 - 💬 Ask me about **javaScript**
 
-- 📫 How to reach me **pouyemouha7@gmail.com**
-
+- 📫 How to reach me </br>**pouyemouha7@gmail.com**
+<hr> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
